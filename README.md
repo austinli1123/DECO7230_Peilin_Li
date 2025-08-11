@@ -1,22 +1,25 @@
 # DECO2300 Example Project Structure
 
-This repository contains example documentation and project structure for DECO2300. 
-The structure here is only an example. you don't have to follow it exactly. 
+This repository contains example documentation and project structure for DECO2300.
+The structure here is only an example. You don't have to follow it exactly.
 
 NOTE: DO NOT ADD LARGE FILES TO YOUR REPOSITORY
 
 ## Project Structure Overview
 
 ### Documentation
+
 - **[Documentation](./Documentation/README.md)** - Complete documentation structure and navigation
 
 ### Prototypes
+
 - **[Prototype 1](./Prototype%201/README.md)** - Horizontal Unity Prototype
 - **[Prototype 2](./Prototype%202/README.md)** - XR Prototype 1
 - **[Prototype 3](./Prototype%203/README.md)** - XR Prototype 2
 
 ### Test Projects
-- **[Test Projects](./TestProjects/README.md)** - Weekly Unity activities and experimental projects. 
+
+- **[Test Projects](./TestProjects/README.md)** - Weekly Unity activities and experimental projects.
 
 ## How to Use This Structure
 
@@ -30,5 +33,3 @@ NOTE: DO NOT ADD LARGE FILES TO YOUR REPOSITORY
 - Include screenshots/pictures where relevant
 - Link between related documents
 - Update the main README as your project evolves
-
-
