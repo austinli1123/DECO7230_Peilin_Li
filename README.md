@@ -5,11 +5,16 @@ The structure here is only an example. You don't have to follow it exactly.
 
 NOTE: DO NOT ADD LARGE FILES TO YOUR REPOSITORY
 
+If you need help installing or setting up Github desktop on a new device, see:  
+
+**[GitHub Setup Guide](./GitHub%20Setup%20on%20device.md)**
+
 ## Project Structure Overview
 
 ### Documentation
 
 - **[Documentation](./Documentation/README.md)** - Complete documentation structure and navigation
+
 
 ### Prototypes
 
