@@ -138,7 +138,7 @@ In this test, six participants completed the task, with the following records:
 ---
 
 ### Rating Sheet
-![Conceptualization 1](1.png)  
+![Conceptualization 1](4.png)  
 
 ### Prototype Screenshots
 ![Conceptualization 1](1.png)  
