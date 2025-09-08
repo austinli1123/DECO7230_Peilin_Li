@@ -52,6 +52,12 @@ Based on this, I aimed to leverage the spatial advantages of mixed reality (MR) 
 
 In the initial conceptualization phase, I used sticky notes, whiteboard cards, and a desktop layout to simulate a "spatial editing wall." Each video clip was represented by a colored card, which could be moved around on the whiteboard to simulate sorting, and the time scale on the card could be used to simulate cutting. Two students participated in preliminary testing, and while they performed well in sorting, they reported that they were prone to misjudging the precise cuts due to unclear scale markings.
 
+![Conceptualization 1](1.jpg)  
+![Conceptualization 2](2.jpg)  
+![Conceptualization 3](3.jpg)  
+![Conceptualization 4](4.jpg)  
+![Conceptualization 5](5.jpg)  
+
 ### Improvements During Iteration
 1. **Optimizing sorting visibility:** Adding highlighted borders and color grouping to clip cards makes it easier for users to locate and distinguish different types of clips in space.  
 2. **Improving editing precision:** A new dynamic zoom feature in the timeline allows users to zoom in to the frame level and edit using gestures, addressing the issue of limited precision.  
