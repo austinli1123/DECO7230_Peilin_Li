@@ -404,8 +404,9 @@ In this test, five participants completed the tasks. Their records are as follow
 
 ## Questionnaire
 
-> `![Prototype Overview](images/prototype-overview.png)`
-
+> ![Prototype Overview](1.png)
+> ![Prototype Overview](2.png)
+> ![Prototype Overview](3.png)
 ---
 
 ## Statement of Originality
